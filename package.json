@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ewertonjsilva/intro-javascript-pami.git"
   },
-  "keywords": ["Revisão java-script", "Aula introdução PAM I"],
+  "keywords": ["java-script", "introdução pam i", "node"],
   "author": "Ewerton",
   "license": "ISC",
   "bugs": {
