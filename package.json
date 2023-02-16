@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/ewertonjsilva/intro-javascript-pami.git"
   },
-  "keywords": ["java-script", "introdução pam i", "node"],
+  "keywords": [
+    "java-script",
+    "introdução pam i",
+    "node"
+  ],
   "author": "Ewerton",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ewertonjsilva/intro-javascript-pami/issues"
   },
-  "homepage": "https://github.com/ewertonjsilva/intro-javascript-pami#readme"
+  "homepage": "https://github.com/ewertonjsilva/intro-javascript-pami#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
